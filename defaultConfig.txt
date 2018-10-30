@@ -1,0 +1,39 @@
+###皮肤###
+skin=images/theme/skin01.png
+
+###是否添加重复歌曲###
+isRepeat = 2
+
+###音量###
+volume = 50
+
+###播放模式###
+playModel = 1
+
+###歌词虚线颜色###
+lineColor = 10,130,220
+
+###默认歌词颜色###
+generalColor=10,130,220
+
+###突显歌词颜色###
+markColor = 255,0,0
+
+###线字体名###
+lineFontName = 宋体
+
+###线字体大小###
+lineFontSize = 13
+
+###歌曲字体名###
+lrcFontName=宋体
+
+###歌曲字体大小###
+lrcFontSize=13
+
+###音乐列表背景颜色###
+musicListbgColor=240, 240, 240
+
+###音乐列表选项背景颜色###
+musicListSelectbgColor=175,208,253
+
